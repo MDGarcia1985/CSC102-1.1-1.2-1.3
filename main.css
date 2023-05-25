@@ -1,0 +1,40 @@
+h1
+{color: grey;
+text-align: left;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
+
+p
+{text-align: center;
+font-size: large;
+font-family: Arial, Helvetica, sans-serif;
+color: palevioletred;
+}
+
+body
+{
+color: palevioletred;
+background-color: darkgrey;
+}
+
+nav
+{height: 6000px; 
+width: 200px;
+float: left;
+padding: 5px;
+line-height: 30px;
+}
+
+footer
+{text-align: center;
+margin-right: 200px;
+}
+
+#memeImage
+{margin-right: 200px;
+}
+
+header
+{text-align: center;
+}
